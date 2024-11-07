@@ -32,8 +32,6 @@ Here's the updated version of your **Skills & Tools** section, now including **A
 [<img align="left" alt="Kali Linux" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Android Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/800px-Android_Studio_Logo_2024.svg.png" style="padding-right:10px;" />]
 
-
-<br />
 <br />
 ---
 
