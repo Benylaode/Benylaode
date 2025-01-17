@@ -1,10 +1,10 @@
 #  Fahmi 
 ## About me:  
-- I’m currently pursuing a bachelor's degree in Information Systems. and learning with thing that related to **Data Mining**, **Deep Learning**, and **Cyber Security**  
-- I’m learning **Python**, **JavaScript**, and exploring more in **Security** and **Software Testing**  
-- I’m looking to collaborate on projects in **Data Automation**, **Data Analysis**, and **Machine Learning**  
-- I’m also open to suggestions for **Rust** project ideas that incorporate data analysis or security components  
-- Ask me about anything related to data mining, machine learning, or security
+- Currently working in the field of Information Systems, with a focus on **Data Mining**, **Deep Learning**, and **Cyber Security**.  
+- Skilled in **Python**, **JavaScript**, and actively exploring **Security** and **Software Testing**.  
+- Looking to collaborate on projects involving **Data Automation**, **Data Analysis**, and **Machine Learning**.  
+- Open to suggestions for **Rust** project ideas that incorporate data analysis or security elements.  
+- Feel free to ask me about anything related to data mining, machine learning, or security
 
 ## Education:  
 #### 1. [Universitas Hasanuddin] | Bachelor of Information Systems| Makassar `2022-soon`
